@@ -2,6 +2,8 @@ target/
 bin/
 subbin/
 builds/
+build/
 superbin/
 springloaded-*.jar
 .DS_Store
+.gradle
